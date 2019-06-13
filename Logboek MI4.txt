@@ -1,0 +1,122 @@
+Logboek
+MI4
+Week 25-02-2019
+
+Week 04-03-2019 (5 uur)
+- Voor Cordova
+- Opzoekwerk firebase
+- Verbetering project MI3
+
+Week 11-03-2019 (7 uur)
+- Voor Cordova
+- Opzoekwerk Firebase Login
+- Proberen Firebase login te implemeteren.
+- Opzoekwerk Firebase Database
+
+Week 18-03-2019 (8-9 uuur)
+- Voor Cordova
+- Opzoekwerk Google Login via developer.google
+- Proberen google login te impelemerern
+- Opzoekwerk facebook login en proberen implementeren 
+
+Week 25-03-2019 (9 uur)
+- Voor Cordova
+- Proberen google login te impelemerern
+- Opzoekwerk facebook login en proberen implementeren
+- Opzoekwerk Ionic
+- Ionic implementeren 
+
+Week 01-04-2019 (0 uur)
+- Projectweek
+
+Week 08-04-2019 (13 uur) 
+- Voor Cordova
+- Firebase database opzoekwerk
+- Firebase database implemetenren
+- Fixen van bugs
+- Opmaak verbeteren
+- Opnieuw beginnen maar met Android Studio
+- Cordova plugins wouden niet werken
+- Plugins werkten niet of verouderd.
+- Opzoekwerk Firebase met android studio
+- Opzoek werk functies Andoid Studio
+
+
+Week 15-04-2019 (15 uur)
+- Opnieuw beginnen maar met Android Studio
+- Cordova plugins wouden niet werken
+- Plugins werkten niet of verouderd.
+- Opzoekwerk android studio
+- Opzoekwerk Firebase google login
+- Firebase Google login implemeteren (lukte niet)
+- Firebase Facebook login implementeren (lukte niet)
+- Deverloper.Google google login implemetern (lukte)
+- Project verbinden met firebase
+
+Week 22-04-2019 (12 uur)
+- Opmaak Login en applicatie
+- Maken van About en contact pagina
+- Opzoekwerk Firebase Database en Storage
+- Werken met Firebase Database
+- Werken met Firebase Storage
+- Uploaden titel en foto lukt
+
+Week 29-04-2019 (11 uur)
+- Opzoekwerk Firebase Database
+- Afwerken upload van recepten
+- Fixen van errors
+- Opmaak van app
+
+Week 06-05-2019 (12 uur)
+- Opzoek werk weergegeven van Firebase Data
+- Werken met Recyclerviewers
+- Toevoegen van google maps Activity
+- Opzoekwerk search functie
+- Beginnen met code search funtie
+
+Week 13-05-2019 (11 uur)
+- Afwerken search functie
+- Meer details toevoegen aan de show recept gedeelte
+- Maken van de verschillende categoriën om recepten te tonen
+- Opzoekwerk Item click (indien je drukt op een recept, dan pas krijg je de detais)
+- Implemeteren Item Click
+- Verbeteren van Item Click
+- Toevoegen Recept UID voor commentaar
+
+Week 20-05-2019 (9 uur)
+- Maken van de Upload Commentaar Functie
+- Opmaak Applicatie
+- Toevoegen van toon alle commentaar
+- Ervoor zorgen dan je de gepaste commentaar ziet voor elke recept
+
+Week 27-05-2019 (9 uur)
+- Apps bugs fixen
+- Sorteer Fucntie Toevoegen
+- Opmaak applicatie
+- Herinstalatie Android studio omdat programma niet meer werkte
+- Het opnieuw impelemeteren van De upload commentaar funcitie
+
+Week 03-06-2019 (12 uur)
+- Begin Examens
+- Veel gewerkt Zaterdag en Zondag omdat we 6 dagen tuseen examens hebben
+- Afwerken upload commentaar funcite
+- Afwerken toon commentaar functie
+- Fixen van erros
+- Opmaak applicatie
+
+Week 10-06-2019 (34 uur)
+- 4 elke dag (+2 zaterdag en zondag) non stop werken voor mobile omdat we 6 dagen tuseen examens hebben
+- Implementeren sorteer funcitie
+- Verbeteren van item clicks omdat het soms crashte, werkt nu perfect
+- Commentaar toevoegen aan elke stuk code
+- Code effcienter maken
+- Verbeterde versie van recept uploaden implementeren met radiobuttons
+- Verbeterde versie van toon commentaar implementeren
+- Recepten toevoegen
+- Testen voor bugs en errors
+- Kleine details verbeteren
+- Voorbereiden presentatie
+- Maken van presentatie project
+- Maken van documentatie project
+
+
